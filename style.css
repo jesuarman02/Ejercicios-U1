@@ -1,0 +1,40 @@
+* {
+    background-color: rgb(235, 255, 83);
+}
+
+body, html {
+    background-color: rgb(240, 240, 30);
+}
+
+#titulo {
+    color: rgba(255, 0, 0, 0.795)
+}
+.texto {
+    cursor: grab;
+}
+
+a {
+    color: blue
+}
+
+#lorem {
+    color: brown;
+}
+
+form>fieldset>label {
+    background-color: rgb(221, 255, 0);
+}
+
+.nav {
+    background-color: aquamarine;
+}
+.nav>a {
+    color: rgb(0, 0, 0);
+    background-color: aliceblue;
+}
+.nav>a:last-child {
+    background-color: aqua;
+}
+.nav>a:first-child {
+    background-color: rgb(0, 174, 255);
+}
